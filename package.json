@@ -8,6 +8,7 @@
     "sanity": "^3.68.3",
     "next": "^14.x.x",  
     "react": "^18.x.x",
-    "react-dom": "^18.x.x" 
+    "react-dom": "^18.x.x",
+    "styled-components": "^6.1"
   }
 }
