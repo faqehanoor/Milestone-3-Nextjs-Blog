@@ -5,6 +5,9 @@
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "client": "^0.0.1",
-    "sanity": "^3.68.3"
+    "sanity": "^3.68.3",
+    "next": "^14.x.x",  
+    "react": "^18.x.x",
+    "react-dom": "^18.x.x" 
   }
 }
